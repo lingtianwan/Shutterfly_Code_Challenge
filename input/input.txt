@@ -1,1 +1,16 @@
-Your input data here
+[{"last_name": "Smith", "event_time": "2017-01-06:12:46.384Z", "verb": "NEW", "key": "test0", "adr_state": "AK", "adr_city": "Middletown", "type": "CUSTOMER"},
+{"event_time": "2017-01-06:12:45:52.041Z", "tags": "{u'some key': u'some value'}", "verb": "NEW", "key": "ac05e815502f", "customer_id": "test0", "type": "SITE_VISIT"},
+{"event_time": "2016-12-06:12:45:52.041Z", "tags": "{u'some key': u'some value'}", "verb": "NEW", "key": "ac05e815502f", "customer_id": "test0", "type": "SITE_VISIT"},
+{"event_time": "2016-11-06:12:45:52.041Z", "tags": "{u'some key': u'some value'}", "verb": "NEW", "key": "ac05e815502f", "customer_id": "test0", "type": "SITE_VISIT"},
+{"total_amount": "5 USD", "event_time": "2017-01-06:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test0", "type": "ORDER"},
+{"total_amount": "10 USD", "event_time": "2017-01-06:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test0", "type": "ORDER"},
+{"event_time": "2017-01-06:12:45:52.041Z", "tags": "{u'some key': u'some value'}", "verb": "NEW", "key": "ac05e815502f", "customer_id": "test1", "type": "SITE_VISIT"},
+{"total_amount": "50 USD", "event_time": "2017-01-06:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test1", "type": "ORDER"},
+{"last_name": "Smith", "event_time": "2017-01-06:12:46.384Z", "verb": "NEW", "key": "test1", "adr_state": "AK", "adr_city": "Middletown", "type": "CUSTOMER"},
+{"total_amount": "100 USD", "event_time": "2017-01-07:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test1", "type": "ORDER"},
+{"total_amount": "200 USD", "event_time": "2017-01-08:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test1", "type": "ORDER"},
+{"last_name": "Smith", "event_time": "2017-01-20:12:46.384Z", "verb": "NEW", "key": "test2", "adr_state": "AK", "adr_city": "Middletown", "type": "CUSTOMER"},
+{"event_time": "2015-01-20:12:45:52.041Z", "tags": "{u'some key': u'some value'}", "verb": "NEW", "key": "ac05e815502f", "customer_id": "test2", "type": "SITE_VISIT"},
+{"camera_make": "Canon", "event_time": "2017-01-06:12:47:12.344Z", "camera_model": "EOS 80D", "verb": "UPLOAD", "key": "d8ede43b1d9f", "customer_id": "test2", "type": "IMAGE"},
+{"total_amount": "1 USD", "event_time": "2017-01-06:12:55.55.555Z", "verb": "NEW", "key": "68d84e5d1a43", "customer_id": "test2", "type": "ORDER"},
+{"last_name": "Smith", "event_time": "2017-01-20:12:46.384Z", "verb": "NEW", "key": "test3", "adr_state": "AK", "adr_city": "Middletown", "type": "CUSTOMER"}]
